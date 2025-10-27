@@ -1,0 +1,13 @@
+# Ignore environment and credentials files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Environment folders
+venv/
+env/
