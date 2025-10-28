@@ -88,8 +88,6 @@ TABLE_NAME=your-dynamodb-table-name
 5️⃣ Run the App  
 python app.py  
 
-Now open your browser and visit:  
-http://127.0.0.1:5000/
 
 ---
 
